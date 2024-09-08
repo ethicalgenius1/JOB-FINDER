@@ -1,0 +1,8 @@
+SHODAN.IO:
+----------
+Find a Job Doing This! 👩‍💼 🔎 →
+"X-Recruiting:"
+"X-Recruiting:" Country:XX City:XX State:XX Postal:XX Region:XX cloud.region:XX org:XX
+
+EXAMPLE:
+"X-Recruiting:" Country:US City:Washington org:organization
